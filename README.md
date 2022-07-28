@@ -5,7 +5,7 @@
 - [看财报](https://www.kancaibao.com/index.asp)  `基本面研究`
 - [语雀](https://www.yuque.com/)  `知识树`
 - [集思录](https://www.jisilu.cn/)  `现金管理`
-- [英为财情](https://cn.investing.com/{:target="_blank"}) `全球金融`
+- [英为财情](https://cn.investing.com/) `全球金融`
 - [乐咕乐股](https://legulegu.com/) `指数估值`
 - [巨潮资讯](http://www.cninfo.com.cn/new/index) `公告查询`
 - [深交所互动易](http://irm.cninfo.com.cn/ircs/index) `问答`
