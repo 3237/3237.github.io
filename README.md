@@ -3,8 +3,9 @@
 > Snowball
 
 - [看财报](https://www.kancaibao.com/index.asp)  `基本面研究`
-- [语雀](https://www.yuque.com)  `知识树`
-
+- [语雀](https://www.yuque.com/)  `知识树`
+- [集思录](https://www.jisilu.cn/)  `现金管理`
+- [英为财情](https://cn.investing.com/) `全球金融`
 
 > IPO
 
