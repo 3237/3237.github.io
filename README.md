@@ -19,8 +19,9 @@
 > DDDD
 
 - [果核剥壳](https://www.ghxi.com/) `净土`
-- [P](https://www.portablesoft.org/) `净土`
+- [PP](https://www.portablesoft.org/) `净土`
 - [AP](https://apnews.com/) `喷子`
+- [ACD](https://www.amazon.com/clouddrive) `5G盘`
 
 
 > Support
