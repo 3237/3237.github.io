@@ -19,7 +19,7 @@
 > DDDD
 
 - [果核剥壳](https://www.ghxi.com/) `净土`
-- [PP](https://www.portablesoft.org/) `净土`
+- [PT](https://www.portablesoft.org/) `净土`
 - [AP](https://apnews.com/) `喷子`
 - [ACD](https://www.amazon.com/clouddrive) `5G盘`
 
@@ -29,7 +29,8 @@
 ###### [【update】](https://github.com/3237/3237.github.io/edit/main/README.md) [【Jekyll】](https://jekyllrb.com/) [【Basic writing and formatting syntax】](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [【repository settings】](https://github.com/3237/3237.github.io/settings/pages) [【documentation】](https://docs.github.com/categories/github-pages-basics/) [【contact support】](https://support.github.com/contact) 
 
 跟人走进，做企业家的同行者，怎么样会失败  
-  
-  
+
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${3237nixon})
+
  
 投孰不投生 `#0969DA`
