@@ -30,7 +30,7 @@
 
 跟人走进，做企业家的同行者，怎么样会失败  
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${3237nixon})
+![访问人数](http://visitor-badge.glitch.me/badge?page_id=3237.github.io)
 
  
 投孰不投生 `#0969DA`
