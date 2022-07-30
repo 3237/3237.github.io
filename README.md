@@ -22,7 +22,7 @@
 - [PT](https://www.portablesoft.org/) `净土`
 - [AP](https://apnews.com/) `喷子`
 - [ACD](https://www.amazon.com/clouddrive) `5G盘`
-
+- [BL解析](https://svip.bljiex.cc/) `无敌`
 
 > Support
 
