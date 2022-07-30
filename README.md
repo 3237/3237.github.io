@@ -33,4 +33,5 @@
 ![访问人数](http://visitor-badge.glitch.me/badge?page_id=3237.github.io)
 
  
-投孰不投生 `#0969DA`
+投孰不投生
+@vposy
