@@ -23,6 +23,7 @@
 - [AP](https://apnews.com/) `喷子`
 - [ACD](https://www.amazon.com/clouddrive) `5G盘`
 - [BL解析](https://svip.bljiex.cc/) `无敌`
+- [MP3](https://music.haom.ren/) `搜索`
 
 > Relax
 
