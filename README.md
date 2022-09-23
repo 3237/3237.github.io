@@ -11,6 +11,7 @@
 - [深交所互动易](http://irm.cninfo.com.cn/ircs/index) `问答`
 - [ARK](https://ark-invest.com/) `方舟`
 - [问财](http://www.iwencai.com/unifiedwap/home/index) `搜索`
+- [并购家](http://www.ipoipo.cn/) `报告`
 
 > IPO
 
