@@ -27,7 +27,6 @@
 - [BL解析](https://svip.bljiex.cc/) `SEE`
 - [MP3](https://music.haom.ren/) `搜索`
 - [MP3-2](https://v2.mp3juice.cafe/) `搜索`
-- [Switch](https://laoquzhang.com) `快乐源泉`
 - [Switch](https://sway.office.com/sD1RziqnHyZ92I3b) `快乐源泉`
 
 > Relax
