@@ -29,8 +29,11 @@
 - [MP3-2](https://v2.mp3juice.cafe/) `搜索`
 - [Switch](https://sway.office.com/sD1RziqnHyZ92I3b) `快乐源泉`
 
-> Relax
+> AI
 
+- [Stable](https://stablediffusionweb.com/) `绘画`
+- [AIbase](https://top.aibase.com/) `集合`
+- [4.0](https://lmsys.org/) `4.0`
 
 > Support
 ###### [【update】](https://github.com/3237/3237.github.io/edit/main/README.md) [【Jekyll】](https://jekyllrb.com/) [【Basic writing and formatting syntax】](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [【repository settings】](https://github.com/3237/3237.github.io/settings/pages) [【documentation】](https://docs.github.com/categories/github-pages-basics/) [【contact support】](https://support.github.com/contact) 
