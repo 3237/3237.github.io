@@ -18,7 +18,7 @@
 - [科创板](https://www.sse.com.cn/listing/disclosure/ipo/)`进度查询`
 - [创业板](http://www.szse.cn/listing/projectdynamic/ipo/index.html)`进度查询`
 - [港股](https://www1.hkexnews.hk/app/appindex.html?lang=zh)`进度查询`
-- [链接文字](https://bing.com){:target="_blank"}
+<a href="https://www1.hkexnews.hk/app/appindex.html?lang=zh" target="&#95;blank">港股</a>
 
 > DDDD
 
